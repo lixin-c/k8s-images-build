@@ -1,0 +1,1 @@
+docker pull nacos/nacos-server:1.4.2
