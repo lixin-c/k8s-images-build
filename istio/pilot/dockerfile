@@ -1,1 +1,1 @@
-FROM istio/pilot:1.13.0
+FROM istio/pilot:1.18.0
