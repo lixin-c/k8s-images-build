@@ -1,1 +1,1 @@
-docker pull alpine:3.19
+From alpine:3.19
